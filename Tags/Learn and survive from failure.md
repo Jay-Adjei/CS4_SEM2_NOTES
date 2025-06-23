@@ -1,0 +1,2 @@
+- **Loss Orientation:** an approach to grief recovery that involves working through and processing some aspect of the loss experienced, and as a result of this, breaking emotional bonds to the object lost.
+- **Restoration Orientation:** an approach to grief recovery based on both avoidance and proactiveness toward secondary sources of stress

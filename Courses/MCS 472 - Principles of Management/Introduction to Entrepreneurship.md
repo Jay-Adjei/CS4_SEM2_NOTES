@@ -56,9 +56,17 @@ next topic:
 
 ### **The Entrepreneurial Mind-set**
 One's entrepreneurial aptitude is largely defined by his/her ability to:
-- [[Effectuate]]
-- Be cognitively adaptable
-- Learn and survive from failure
+- [[Effectuation]]
+- [[Cognitive Adaptability]]
+- [[Learn and survive from failure]]
+
+### **Common Myths About Entrepreneurs**
+**Entrepreneurs:**
+- are born, not made.
+- are gamblers.
+- are motivated primarily by money.
+- should be young and energetic
+- love the spotlight..
 
 
 

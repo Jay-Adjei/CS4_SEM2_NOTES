@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effectuate.md",
+                "file": "Courses/MCS 472 - Principles of Management/Introduction to Entrepreneurship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effectuate"
+              "title": "Introduction to Entrepreneurship"
             }
           }
         ]
@@ -150,6 +150,20 @@
               "icon": "lucide-list",
               "title": "Outline of Effectuate"
             }
+          },
+          {
+            "id": "8cfc7dda797ee7f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -160,19 +174,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bd10a9fb40fc2cf3",
   "lastOpenFiles": [
+    "Tags/Learn and survive from failure.md",
+    "Learn and survive from failure.md",
     "Courses/MCS 472 - Principles of Management/Introduction to Entrepreneurship.md",
-    "Effectuate.md",
-    "Development of the business plan.md",
+    "Tags/Cognitive Adaptability.md",
+    "Tags/Effectuation.md",
+    "Tags/Development of the business plan.md",
     "Tags/Identification and evaluation of the opportunity/Identification and evaluation of the opportunity or idea.md",
     "Tags/Identification and evaluation of the opportunity",
     "Welcome.md",

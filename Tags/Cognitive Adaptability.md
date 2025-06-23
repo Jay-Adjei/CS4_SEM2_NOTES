@@ -1,0 +1,3 @@
+Describes the extent to which entrepreneurs are dynamic, flexible, self-regulating and engaged in the process of generating multiple decision frameworks focused on sensing and processing change in the environment and then acting on them.
+
+In simpler terms, it's about entrepreneurs being agile, responsive, and able to make decisions quickly in a changing environment. They can pivot and adjust their approach as needed to stay ahead.

@@ -1,1 +1,0 @@
-Effectuation is a way of thinking and decision making that helps entrepreneurs start a business with the resources they already have, instead of waiting for the perfect plan or opportunity.
